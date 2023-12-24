@@ -19,7 +19,7 @@ To make the most of this repository, follow these steps:
 1- Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/problem-solving-in-C-.git
+git clone https://github.com/your-username/C-How-To-Program-Solutions.git
 ```
 2- Navigate to the desired chapter's directory:
 

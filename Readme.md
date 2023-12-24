@@ -1,5 +1,5 @@
 # C How To Program Solutions
-This repository contains solutions to selected programming problems from the renowned book **C How To Program: With An Introduction To C++, 8th Edition*. These solutions aim to provide a comprehensive understanding of C programming concepts and serve as a valuable resource for learners.
+This repository contains solutions to selected programming problems from the renowned book [*C How To Program: With An Introduction To C++, 8th Edition*](https://www.amazon.com/How-Program-8th-Paul-Deitel/dp/0133976890). These solutions aim to provide a comprehensive understanding of C programming concepts and serve as a valuable resource for learners.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -8,7 +8,7 @@ This repository contains solutions to selected programming problems from the ren
 - [Contributing](#contributing)
 
 ### Introduction: 
-C How To Program: With An Introduction To C++, 8th Edition is a widely acclaimed book that covers the fundamentals of C programming with an additional focus on C++. This repository complements the book by offering solutions to programming problems found within its pages.
+[C How To Program: With An Introduction To C++, 8th Edition](https://www.amazon.com/How-Program-8th-Paul-Deitel/dp/0133976890) is a widely acclaimed book that covers the fundamentals of C programming with an additional focus on C++. This repository complements the book by offering solutions to programming problems found within its pages.
 
 ### Solutions
 Browse the solutions directory to access the solved problems categorized by chapter. Each solution is named appropriately and includes comments for clarity.

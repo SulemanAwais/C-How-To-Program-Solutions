@@ -1,3 +1,15 @@
+/*
+(Selection Sort) 
+A selection sort algorithm for a one-dimensional array has the following steps:
+a) The smallest value in the array is found.
+b) It is swapped with the value in the first position of the array.
+c) The above steps are repeated for the rest of the array starting at the second position and
+advancing each time.
+Eventually the entire array is divided into two parts: the sub-array of items already sorted
+which is built up from left to right and is found at the beginning, and the sub-array of
+items remaining to be sorted, occupying the remainder of the array. Write a program
+that sorts an array of 10 integers using this algorithm.
+*/
 #include <stdio.h>
 void selectionSort(int arr[], int n) {
     int i, j, minIndex, temp;

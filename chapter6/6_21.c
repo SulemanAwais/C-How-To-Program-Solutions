@@ -1,4 +1,16 @@
+/*
+An two-dimensional matrix can be multiplied by another matrix to give a matrix whose elements are the sum of the products of the elements within a row from the first matrix
+and the associated elements of a column of the second matrix. Both matrices should either be
+square matrices, or the number of columns of the first matrix should equal the number of rows of
+the second matrix. 
+To calculate each element of the resultant matrix, multiply the first element of a given row from
+the first matrix and the first element of a given column in the second matrix, add that to the product
+of the second element of the same row and the second element of the same column, and keep doing
+so until the last elements of the row and column have been multiplied and added to the sum.
+Write a program to calculate the product of 2 matrices and store the result in a third matrix.
+*/
 #include <stdio.h>
+
 int canMultiply(int colA, int rowB) {
     return colA == rowB;
 }

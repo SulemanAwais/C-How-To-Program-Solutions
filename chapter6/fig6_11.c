@@ -1,3 +1,5 @@
+// Static arrays are initialized to zero if not explicitly initialized
+
 #include<stdio.h>
 void staticArrayInit();
 void automaticArrayInit();

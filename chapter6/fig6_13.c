@@ -1,3 +1,4 @@
+// Passing arrays and individual array elements to functions
 #include<stdio.h>
 void modifyArray(int a[], int size);
 void modifyElement(int e);

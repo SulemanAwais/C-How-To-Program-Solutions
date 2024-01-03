@@ -1,3 +1,5 @@
+// Array name is the same as the address of the array’s first element
+
 #include<stdio.h>
 int main()
 {

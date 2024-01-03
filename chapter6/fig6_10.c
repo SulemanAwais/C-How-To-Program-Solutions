@@ -1,3 +1,5 @@
+// character arrays as strings
+
 #include<stdio.h>
 #define SIZE 20
 int main()
